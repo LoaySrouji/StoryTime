@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428957332944",
+    "firebase_url": "https://postpc-b7928.firebaseio.com",
+    "project_id": "postpc-b7928",
+    "storage_bucket": "postpc-b7928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428957332944:android:743a5fc187891f34ad75d5",
+        "android_client_info": {
+          "package_name": "com.continuesvoicerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428957332944-5hm37a29pjkearisjjr5lmtatok6fddb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJXbDBYqVKLO-i3P4F7HkTXv19oJq1-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428957332944-5hm37a29pjkearisjjr5lmtatok6fddb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
